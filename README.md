@@ -3,3 +3,6 @@
 #senai-versoes-colaboradores
 
 readme de exemplo
+
+
+me lembrei do comando "git status"
